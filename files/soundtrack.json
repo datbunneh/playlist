@@ -1,0 +1,51 @@
+{
+    "customGroups": {
+		"Adventure Time": [
+			"Adventure Time",
+			"Adventure Time - Distant Lands"
+		],
+		"Bigfoot": [
+			"The Son Of Bigfoot",
+			"Bigfoot Family"
+		],
+		"Brother Bear": [
+			"Brother Bear",
+			"Brother Bear 2"
+		],
+        "Frozen": [
+            "Frozen",
+            "Frozen II",
+			"Frozen - The Broadway Musical"
+        ],
+		"Gnomeo & Juliet": [
+			"Gnomeo & Juliet",
+			"Sherlock Gnomes"
+		],
+		"Helluva Boss": [
+			"Hazbin Hotel",
+			"Helluva Boss"
+		],
+        "Irish Folklore": [
+            "Wolfwalkers",
+            "Song Of The Sea"
+        ],
+		"Scooby-Doo": [
+			"Scooby-Doo And The Witch's Ghost",
+			"Scooby-Doo Mystery Incorporated"
+		],
+		"Sing": [
+			"Sing",
+			"Sing 2"
+		],
+        "Tangled": [
+            "Tangled",
+            "Rapunzel's Tangled Adventure"
+        ],
+		"Tinker Bell": [
+			"Tinker Bell",
+			"Tinker Bell And The Lost Treasure",
+			"Tinker Bell And The Pirate Fairy",
+			"Tinker Bell And The Legend Of The NeverBeast"
+		]
+    }
+}
